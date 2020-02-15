@@ -1,0 +1,11 @@
+C:\Users\millr\source\repos\U01-Deliverable02\U01-Deliverable02\bin\Debug\netcoreapp3.1\U01-Deliverable02.exe
+C:\Users\millr\source\repos\U01-Deliverable02\U01-Deliverable02\bin\Debug\netcoreapp3.1\U01-Deliverable02.deps.json
+C:\Users\millr\source\repos\U01-Deliverable02\U01-Deliverable02\bin\Debug\netcoreapp3.1\U01-Deliverable02.runtimeconfig.json
+C:\Users\millr\source\repos\U01-Deliverable02\U01-Deliverable02\bin\Debug\netcoreapp3.1\U01-Deliverable02.runtimeconfig.dev.json
+C:\Users\millr\source\repos\U01-Deliverable02\U01-Deliverable02\bin\Debug\netcoreapp3.1\U01-Deliverable02.dll
+C:\Users\millr\source\repos\U01-Deliverable02\U01-Deliverable02\bin\Debug\netcoreapp3.1\U01-Deliverable02.pdb
+C:\Users\millr\source\repos\U01-Deliverable02\U01-Deliverable02\obj\Debug\netcoreapp3.1\U01-Deliverable02.csprojAssemblyReference.cache
+C:\Users\millr\source\repos\U01-Deliverable02\U01-Deliverable02\obj\Debug\netcoreapp3.1\U01-Deliverable02.AssemblyInfoInputs.cache
+C:\Users\millr\source\repos\U01-Deliverable02\U01-Deliverable02\obj\Debug\netcoreapp3.1\U01-Deliverable02.AssemblyInfo.cs
+C:\Users\millr\source\repos\U01-Deliverable02\U01-Deliverable02\obj\Debug\netcoreapp3.1\U01-Deliverable02.dll
+C:\Users\millr\source\repos\U01-Deliverable02\U01-Deliverable02\obj\Debug\netcoreapp3.1\U01-Deliverable02.pdb
